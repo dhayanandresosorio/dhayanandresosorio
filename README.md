@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hola, soy Dhayan Osorio
 
-<!--
-**dhayanandresosorio/dhayanandresosorio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de **ASIR/ASIX** con interés en **sistemas, redes, bases de datos y ciberseguridad**.
 
-Here are some ideas to get you started:
+En este GitHub subo **prácticas académicas y proyectos técnicos** relacionados con:
+- Administración de sistemas Linux y Windows Server
+- Bases de datos (PostgreSQL, MySQL)
+- Redes y servicios (DNS, DHCP, VLANs)
+- Entornos cliente-servidor
+- Automatización básica y scripting
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Repositorios destacados:
+- 🔹 Instalación y configuración de PostgreSQL 18 en Ubuntu Server
+- 🔹 Infraestructura cliente-servidor con PostgreSQL y restauración de bases de datos
+
+🚀 Actualmente en formación y buscando **prácticas / primera oportunidad en el sector informático**.
