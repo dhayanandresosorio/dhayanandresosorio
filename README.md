@@ -1,8 +1,8 @@
-# 👋 Hola, soy Dhayan Osorio
+# 👋 Hola, soy Dhayan!
 
-Estudiante de **ASIR/ASIX** con interés en **sistemas, redes, bases de datos y ciberseguridad**.
+Soy un estudiante de **ASIR/ASIX** con interés en **sistemas, redes, bases de datos y ciberseguridad**.
 
-En este GitHub subo **prácticas académicas y proyectos técnicos** relacionados con:
+En este GitHub subiré **prácticas académicas y proyectos técnicos** relacionados con:
 - Administración de sistemas Linux y Windows Server
 - Bases de datos (PostgreSQL, MySQL)
 - Redes y servicios (DNS, DHCP, VLANs)
