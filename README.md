@@ -10,7 +10,7 @@ En este GitHub subiré **prácticas académicas y proyectos técnicos** relacion
 - Automatización básica y scripting
 
 Repositorios destacados:
-- 🔹 Instalación y configuración de PostgreSQL 18 en Ubuntu Server
+- 🔹 Distribución y fragmentación de los datos
 - 🔹 Infraestructura cliente-servidor con PostgreSQL y restauración de bases de datos
 
 Actualmente en formación y buscando **prácticas / primera oportunidad en el sector informático**.
