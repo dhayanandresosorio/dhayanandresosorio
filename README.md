@@ -8,6 +8,7 @@ En este GitHub subiré **prácticas académicas y proyectos técnicos** relacion
 - Redes y servicios (DNS, DHCP, VLANs)
 - Entornos cliente-servidor
 - Automatización básica y scripting
+- Monitorización con Suricata
 
 Repositorios destacados:
 - 🔹 Distribución y fragmentación de los datos
