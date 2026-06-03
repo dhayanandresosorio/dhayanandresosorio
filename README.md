@@ -26,21 +26,11 @@ En este GitHub voy documentando prácticas académicas y proyectos técnicos rel
 
 ### 🌐 Nueva web de Radio La Mina
 
-Durante mis prácticas he trabajado en la creación y migración de la nueva web de **Radio La Mina** usando WordPress.
+**Radio La Mina — Migración web WordPress**  
+Creación y migración de una web WordPress real para una emisora local, incluyendo entorno de desarrollo, streaming en directo, formulario SMTP, HTTPS, migración a producción y documentación técnica.
 
-El proyecto incluyó:
-
-* Creación de un entorno de desarrollo en subdominio.
-* Diseño y personalización de la web con WordPress y Twenty Twenty-Four.
-* Estructura de páginas: inicio, programación, programas, noticias, contacto, directo y contenidos a la carta.
-* Integración de emisión de radio en directo mediante streaming.
-* Configuración de formulario de contacto con envío mediante SMTP.
-* Activación de HTTPS y revisión de redirecciones.
-* Migración desde entorno de pruebas a dominio oficial.
-* Revisión de seguridad básica, backups y mantenimiento.
-* Comunicación técnica con proveedor externo para dominio, hosting y SSL.
-
-Web publicada: **https://radiolamina.com**
+Web: https://radiolamina.com  
+Repositorio: [(https://github.com/dhayanandresosorio/radio-la-mina-wordpress-migration)]
 
 ## 📂 Repositorios destacados
 
