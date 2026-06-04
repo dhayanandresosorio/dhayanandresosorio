@@ -30,7 +30,7 @@ En este GitHub voy documentando prácticas académicas y proyectos técnicos rel
 Creación y migración de una web WordPress real para una emisora local, incluyendo entorno de desarrollo, streaming en directo, formulario SMTP, HTTPS, migración a producción y documentación técnica.
 
 Web: https://radiolamina.com  
-Repositorio: [https://github.com/dhayanandresosorio/radio-la-mina-wordpress-migration]
+Repositorio: [radio-la-mina-wordpress-migration](https://github.com/dhayanandresosorio/radio-la-mina-wordpress-migration)
 
 ## 📂 Repositorios destacados
 
