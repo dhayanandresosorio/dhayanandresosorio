@@ -1,66 +1,120 @@
-# Hola, soy Dhayan
+# Hola, soy Dhayan 
 
-Soy estudiante de **ASIR/ASIX** con interés en la administración de sistemas, redes, bases de datos, ciberseguridad y despliegue de servicios web.
+Soy **Técnico Junior de Sistemas** recién graduado en **ASIR/ASIX**, con interés en administración de sistemas, redes, bases de datos, ciberseguridad básica, servicios web y soporte técnico avanzado.
 
-Actualmente estoy realizando prácticas en el sector informático, donde he trabajado en tareas reales de infraestructura, inventario técnico y desarrollo web con WordPress.
+Me estoy orientando profesionalmente hacia puestos de **IT Support Technician**, **Junior Sysadmin**, **Técnico de Sistemas** o **Técnico de Infraestructura**, combinando soporte a usuarios con configuración de servicios, documentación técnica y resolución de incidencias.
 
 ## Sobre mí
 
-Me interesa especialmente el área de sistemas y servicios: configuración de servidores, redes, bases de datos, seguridad básica, monitorización y despliegue de aplicaciones web.
+Durante mi formación y experiencia práctica he trabajado con entornos reales y laboratorios técnicos relacionados con sistemas, redes, bases de datos, servicios web y seguridad.
 
-En este GitHub voy documentando prácticas académicas y proyectos técnicos relacionados con mi formación y experiencia práctica.
+En este GitHub documento proyectos prácticos donde muestro cómo preparo entornos, configuro servicios, resuelvo problemas y dejo documentación técnica clara para que el trabajo sea entendible, mantenible y reutilizable.
 
-## Tecnologías y áreas de interés
+Me interesa especialmente el área de sistemas e infraestructura: servidores Linux y Windows, redes, servicios, bases de datos, monitorización, seguridad básica y despliegue de aplicaciones web.
 
-* Administración de sistemas Linux y Windows Server
-* Redes y servicios: DNS, DHCP, VLANs, routing y servicios web
-* Bases de datos: PostgreSQL, MySQL / MariaDB
-* WordPress, hosting, dominios, HTTPS y SMTP
-* Migración y publicación de webs en producción
-* Seguridad básica en servicios y aplicaciones web
-* Monitorización y análisis de tráfico con Suricata
-* Automatización básica y scripting
+## Perfil profesional
+
+* Técnico Junior de Sistemas
+* IT Support & Infrastructure Technician
+* Junior Sysadmin
+* Soporte técnico avanzado
+* Administración básica de servidores y servicios
 * Documentación técnica de proyectos
 
-## 📌 Proyecto destacado
+## Tecnologías y áreas de trabajo
 
-### 🌐 Nueva web de Radio La Mina
+### Sistemas y redes
 
-**Radio La Mina — Migración web WordPress**  
-Creación y migración de una web WordPress real para una emisora local, incluyendo entorno de desarrollo, streaming en directo, formulario SMTP, HTTPS, migración a producción y documentación técnica.
+* Linux
+* Windows Server / Windows
+* Redes TCP/IP
+* DNS, DHCP, routing y servicios web
+* Configuración de entornos cliente-servidor
+* Virtualización y laboratorios técnicos
 
-Web: https://radiolamina.com  
-Repositorio: [radio-la-mina-wordpress-migration](https://github.com/dhayanandresosorio/radio-la-mina-wordpress-migration)
+### Bases de datos
 
-## 📂 Repositorios destacados
+* PostgreSQL
+* MySQL / MariaDB
+* Restauración de bases de datos
+* Usuarios, permisos y roles
+* Entornos cliente-servidor
 
-* **Migración web Radio La Mina**
-  Proyecto real de creación, configuración y publicación de una web WordPress para una emisora local.
+### Web, hosting y servicios
 
-* **Alta disponibilidad en PostgreSQL**
-  Práctica con Patroni, etcd, HAProxy y PostgreSQL.
+* WordPress
+* Apache
+* PHP
+* Hosting web
+* Dominios y DNS
+* HTTPS / SSL
+* SMTP
+* Migración y publicación de webs
 
-* **Replicación de sistemas heterogéneos**
-  Migración y sincronización entre MySQL y PostgreSQL.
+### Seguridad y monitorización
 
-* **Infraestructura cliente-servidor con PostgreSQL**
-  Configuración de entorno cliente-servidor y restauración de bases de datos.
+* Suricata
+* IDS / IPS
+* nftables
+* NFQUEUE
+* Grafana
+* Loki
+* Alloy
+* Análisis básico de tráfico y eventos
 
-* **NIDS/NIPS con Suricata**
-  Laboratorio de análisis de tráfico y detección de eventos de red.
+### Documentación y metodología
 
-* **Laboratorio DMZ, proxies y VPN**
-  Simulación de infraestructura con servicios web, proxy directo, proxy invers y VPN.
+* Documentación técnica paso a paso
+* Capturas de comprobación
+* Resolución de incidencias
+* Organización de proyectos en GitHub
+* Buenas prácticas básicas de mantenimiento
 
-## 🎯 Objetivo profesional
+## Proyecto destacado
 
-Estoy buscando seguir creciendo en el sector informático, especialmente en áreas relacionadas con:
+### Radio La Mina — Migración web WordPress
 
-* Administración de sistemas
-* Redes y servicios
-* Bases de datos
-* Ciberseguridad
-* Cloud e infraestructura
-* Soporte técnico avanzado y despliegue de servicios
+Proyecto real de creación, configuración y migración de una web WordPress para una emisora local.
 
-Mi objetivo es seguir aprendiendo en entornos reales, mejorar mi capacidad técnica y documentar proyectos de forma clara, útil y profesional.
+El trabajo incluyó entorno de desarrollo, estructura de contenidos, integración de streaming en directo, formulario de contacto con SMTP, configuración HTTPS, migración a producción y documentación técnica.
+
+* Web final: https://radiolamina.com
+* Repositorio: [radio-la-mina-wordpress-migration](https://github.com/dhayanandresosorio/radio-la-mina-wordpress-migration)
+
+## Repositorios destacados
+
+### Radio La Mina — Migración web WordPress
+
+Proyecto real de creación y migración de una web WordPress en producción, con streaming en directo, SMTP, HTTPS, hosting y documentación técnica.
+
+[Ver repositorio](https://github.com/dhayanandresosorio/radio-la-mina-wordpress-migration)
+
+### NIDS/NIPS con Suricata, Loki y Grafana
+
+Laboratorio de ciberseguridad con Suricata en modo IDS/IPS, nftables, NFQUEUE, Alloy, Loki y Grafana para análisis y visualización de eventos de red.
+
+[Ver repositorio](https://github.com/dhayanandresosorio/Implementacion-IDS-IPS-con-Suricata-y-Grafana)
+
+### Infraestructura cliente-servidor con PostgreSQL
+
+Práctica de bases de datos donde se trabaja la instalación, configuración, restauración y conexión cliente-servidor con PostgreSQL.
+
+[Ver repositorio](https://github.com/dhayanandresosorio/sistemas-cliente-servidor-PostgreSQL18)
+
+### Aplicación web con PHP y base de datos
+
+Proyecto web con PHP y conexión a base de datos, orientado a practicar la integración entre aplicación web y persistencia de datos.
+
+[Ver repositorio](https://github.com/dhayanandresosorio/Aplicacion-web-con-PHP-y-bbdd)
+
+### Distribución y fragmentación de datos
+
+Práctica relacionada con diseño, distribución y gestión de datos en entornos de bases de datos.
+
+[Ver repositorio](https://github.com/dhayanandresosorio/Distribucion-y-fragmentacion-de-los-datos)
+
+## Objetivo profesional
+
+Estoy listo para incorporarme al mundo laboral en posiciones junior relacionadas con sistemas, soporte técnico, infraestructura, redes, bases de datos o servicios web.
+
+Mi objetivo es seguir creciendo en un entorno real donde pueda aportar capacidad técnica, actitud práctica, documentación clara y ganas de aprender en proyectos de sistemas e infraestructura.
