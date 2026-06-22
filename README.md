@@ -1,6 +1,6 @@
 # Hola, soy Dhayan 
 
-Soy **Técnico Junior de Sistemas** recién graduado en **ASIR/ASIX**, con interés en administración de sistemas, redes, bases de datos, ciberseguridad básica, servicios web y soporte técnico avanzado.
+Soy **Técnico Junior de Sistemas** graduado en **ASIR**, con interés en administración de sistemas, redes, bases de datos, ciberseguridad básica, servicios web y soporte técnico avanzado.
 
 Me estoy orientando profesionalmente hacia puestos de **IT Support Technician**, **Junior Sysadmin**, **Técnico de Sistemas** o **Técnico de Infraestructura**, combinando soporte a usuarios con configuración de servicios, documentación técnica y resolución de incidencias.
 
