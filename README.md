@@ -247,8 +247,6 @@ En mis repositorios intento seguir una estructura clara:
 * Soluciones aplicadas
 * Documentación final
 
-La idea no es solo subir archivos, sino dejar proyectos que se puedan entender, revisar y defender técnicamente.
-
 ---
 
 ## Contacto
