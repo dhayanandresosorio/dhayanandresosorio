@@ -1,182 +1,105 @@
 # Dhayan Osorio
 
-Técnico Junior de Sistemas IT, graduado en ASIR, con interés en administración de sistemas, soporte técnico, redes, bases de datos, automatización y ciberseguridad.
+Técnico Junior de Sistemas IT, graduado en ASIR, con interés en administración de sistemas, soporte técnico, redes, bases de datos, automatización y ciberseguridad defensiva.
 
-Me gusta trabajar con entornos reales o lo más cercanos posible a un entorno profesional: máquinas virtuales, servidores Linux, servicios web, bases de datos, documentación técnica y resolución de problemas paso a paso.
+Me gusta trabajar con entornos prácticos y documentados: máquinas virtuales, servidores Linux, servicios web, bases de datos, redes, logs, pruebas de conectividad y resolución de problemas paso a paso.
 
-Actualmente estoy enfocando mi perfil hacia roles como:
+## Perfil técnico
 
-* Técnico de Sistemas Junior
-* IT Support Technician
-* Helpdesk / Soporte N1-N2
-* Junior Sysadmin
-* Técnico de infraestructura
-* Técnico junior de bases de datos
-* Ciberseguridad junior
+Estoy orientando mi perfil hacia roles como:
 
----
+- Técnico de Sistemas Junior
+- IT Support Technician
+- Helpdesk / Soporte N1-N2
+- Junior Sysadmin
+- Técnico de infraestructura
+- Técnico junior de bases de datos
+- Ciberseguridad junior
 
-## Sobre mí
-
-Tengo formación en sistemas informáticos y redes, con experiencia práctica en soporte IT, administración básica de sistemas, documentación técnica, despliegue web, redes y bases de datos.
-
-Me interesa especialmente todo lo relacionado con:
-
-* Linux y administración de servidores
-* Windows y soporte a usuarios
-* Redes, direccionamiento IP, DNS, DHCP y troubleshooting
-* PostgreSQL, MySQL y SQL
-* Automatización con Bash
-* Docker y virtualización
-* Seguridad defensiva, IDS/IPS y monitorización
-* Documentación técnica clara y ordenada
-
-En mis repositorios intento reflejar prácticas completas, no solo comandos sueltos: objetivo, estructura, configuración, scripts, comprobaciones, problemas encontrados y documentación final.
-
----
-
-## Competencias técnicas
+## Áreas que trabajo
 
 ### Sistemas y soporte
 
-* Linux
-* Windows
-* Windows Server básico
-* Soporte técnico a usuarios
-* Resolución de incidencias
-* Ticketing
-* Instalación y configuración de software
-* Diagnóstico de problemas hardware/software
+- Linux
+- Windows
+- Windows Server básico
+- Soporte técnico a usuarios
+- Resolución de incidencias
+- Instalación y configuración de software
+- Documentación técnica
 
 ### Redes
 
-* TCP/IP
-* DNS
-* DHCP
-* Direccionamiento IP
-* Subredes
-* NAT
-* Redes internas en entornos virtualizados
-* Troubleshooting básico de conectividad
+- TCP/IP
+- DNS
+- DHCP
+- Direccionamiento IP
+- Subredes
+- NAT
+- Troubleshooting básico de conectividad
+- Redes internas en entornos virtualizados
 
 ### Bases de datos
 
-* PostgreSQL
-* MySQL
-* SQL
-* Roles y permisos
-* Cliente-servidor
-* Vistas
-* Triggers
-* Automatización de tareas de administración
+- PostgreSQL
+- MySQL
+- SQL
+- Cliente-servidor
+- Roles y permisos
+- Vistas
+- Triggers
+- Configuración de acceso remoto
+- Tareas básicas de administración
 
-### Virtualización y automatización
+### Web, automatización y seguridad
 
-* VirtualBox
-* Hyper-V
-* Docker básico
-* Bash scripting
-* Git
-* GitHub
-* Documentación técnica en Markdown
-
-### Seguridad
-
-* Suricata
-* IDS/IPS
-* Reglas de detección
-* Monitorización básica
-* Principio de mínimos privilegios
-* Segmentación de red en laboratorio
-* Logs y análisis básico de eventos
-
----
+- Apache
+- PHP básico
+- WordPress
+- Bash scripting
+- Git y GitHub
+- Docker básico
+- VirtualBox / Hyper-V
+- Suricata
+- IDS/IPS
+- Grafana / Loki
+- Logs y monitorización básica
 
 ## Repositorios destacados
 
 ### Radio La Mina - WordPress Migration
 
-Proyecto real de despliegue, migración y documentación de una web WordPress para Radio La Mina.
+Proyecto real de creación, migración y documentación de una web WordPress para Radio La Mina.
 
-Incluye trabajo con hosting, dominio, HTTPS, SMTP, formularios, streaming online, estructura de páginas, documentación de mantenimiento y guía para usuarios no técnicos.
+Incluye trabajo con hosting, dominio, HTTPS, SMTP, formularios, streaming online, estructura de páginas y documentación de mantenimiento.
 
-Repositorio:
-[radio-la-mina-wordpress-migration](https://github.com/dhayanandresosorio/radio-la-mina-wordpress-migration)
-
-Tecnologías y conceptos:
-
-* WordPress
-* Hosting web
-* DNS
-* HTTPS
-* SMTP
-* Formularios
-* Documentación técnica
-* Migración web
+Repositorio: [radio-la-mina-wordpress-migration](https://github.com/dhayanandresosorio/radio-la-mina-wordpress-migration)
 
 ---
 
-### IDS/IPS con Suricata, Loki y Grafana
+### Suricata IDS/IPS + Loki + Grafana
 
-Laboratorio de seguridad defensiva usando Suricata como IDS/IPS, con monitorización y visualización de eventos mediante Loki y Grafana.
+Laboratorio de seguridad defensiva con Suricata como IDS/IPS, análisis de eventos de red y visualización mediante Loki y Grafana.
 
-Repositorio:
-[Implementacion-IDS-IPS-con-Suricata-y-Grafana](https://github.com/dhayanandresosorio/Implementacion-IDS-IPS-con-Suricata-y-Grafana)
-
-Tecnologías y conceptos:
-
-* Suricata
-* IDS/IPS
-* Reglas de detección
-* NFQUEUE
-* nftables
-* Logs
-* Loki
-* Grafana
-* Laboratorio de red
+Repositorio: [suricata-ids-ips-loki-grafana](https://github.com/dhayanandresosorio/suricata-ids-ips-loki-grafana)
 
 ---
 
 ### PostgreSQL Pagila Security Automation
 
-Laboratorio de automatización, seguridad e integridad en PostgreSQL usando la base de datos de ejemplo Pagila.
+Proyecto de automatización y seguridad en PostgreSQL usando la base de datos Pagila.
 
-Incluye scripts Bash y SQL para preparar la base de datos, crear roles y usuarios, aplicar permisos, crear vistas, configurar triggers y ejecutar tareas de mantenimiento.
+Incluye scripts Bash y SQL para preparar la base de datos, crear roles, aplicar permisos, crear vistas, configurar triggers y ejecutar tareas de mantenimiento.
 
-Repositorio:
-[postgresql-pagila-security-automation](https://github.com/dhayanandresosorio/postgresql-pagila-security-automation)
-
-Tecnologías y conceptos:
-
-* PostgreSQL
-* Pagila
-* Bash
-* SQL
-* PL/pgSQL
-* Roles y permisos
-* Vistas
-* Triggers
-* VACUUM ANALYZE
-* REINDEX
+Repositorio: [postgresql-pagila-security-automation](https://github.com/dhayanandresosorio/postgresql-pagila-security-automation)
 
 ---
 
 ### PostgreSQL cliente-servidor
 
-Práctica de configuración de un entorno cliente-servidor con PostgreSQL, trabajando con conexión remota, usuarios, permisos y comprobaciones desde máquinas separadas.
+Práctica de configuración cliente-servidor con PostgreSQL, restauración de base de datos, usuarios, permisos y pruebas de conexión entre máquinas.
 
-Repositorio:
-[sistemas-cliente-servidor-PostgreSQL18](https://github.com/dhayanandresosorio/sistemas-cliente-servidor-PostgreSQL18)
-
-Tecnologías y conceptos:
-
-* PostgreSQL
-* Cliente-servidor
-* Linux
-* Conexión remota
-* Usuarios y permisos
-* Configuración de servicio
-* Pruebas de conectividad
+Repositorio: [postgresql-cliente-servidor-ubuntu](https://github.com/dhayanandresosorio/postgresql-cliente-servidor-ubuntu)
 
 ---
 
@@ -184,72 +107,48 @@ Tecnologías y conceptos:
 
 Práctica centrada en distribución de datos, fragmentación horizontal y trabajo con bases de datos distribuidas.
 
-Repositorio:
-[database-distribution-fragmentation](https://github.com/dhayanandresosorio/database-distribution-fragmentation)
-
-Tecnologías y conceptos:
-
-* Bases de datos distribuidas
-* Fragmentación de datos
-* SQL
-* PostgreSQL
-* Diseño lógico
-* Consultas y comprobaciones
+Repositorio: [database-distribution-fragmentation](https://github.com/dhayanandresosorio/database-distribution-fragmentation)
 
 ---
 
 ### MySQL cliente-servidor
 
-Práctica de instalación y configuración de MySQL en un entorno cliente-servidor, con usuarios, permisos y conexión remota.
+Práctica de instalación y configuración de MySQL en un entorno cliente-servidor, incluyendo conexión remota, usuarios y permisos.
 
-Repositorio:
-[mysql-cliente-servidor-ubuntu](https://github.com/dhayanandresosorio/mysql-cliente-servidor-ubuntu)
-
-Tecnologías y conceptos:
-
-* MySQL
-* Linux
-* Cliente-servidor
-* Usuarios
-* Permisos
-* Conexión remota
-* Administración básica
+Repositorio: [mysql-cliente-servidor-ubuntu](https://github.com/dhayanandresosorio/mysql-cliente-servidor-ubuntu)
 
 ---
 
-## En qué estoy trabajando
+### PHP MySQL LaLiga CRUD
 
-Actualmente estoy reforzando mi perfil técnico en estas áreas:
+Aplicación CRUD básica con PHP y MySQL para practicar conexión a base de datos, sesiones, consultas preparadas y gestión de datos desde una interfaz web.
 
-* Administración de sistemas Linux y Windows
-* Bases de datos PostgreSQL y MySQL
-* Automatización de tareas con Bash
-* Seguridad defensiva y monitorización
-* Docker y virtualización
-* Cloud y fundamentos de infraestructura
-* Documentación técnica profesional
+Repositorio: [php-mysql-laliga-crud](https://github.com/dhayanandresosorio/php-mysql-laliga-crud)
+
+## Otros proyectos
+
+También mantengo prácticas más pequeñas sobre fundamentos de PHP, Apache, PostgreSQL y administración básica en Ubuntu:
+
+- [php-sessions-football-crud](https://github.com/dhayanandresosorio/php-sessions-football-crud)
+- [apache-php-basics-ubuntu](https://github.com/dhayanandresosorio/apache-php-basics-ubuntu)
+- [postgresql-installation-configuration](https://github.com/dhayanandresosorio/postgresql-installation-configuration)
+
+## Cómo documento los proyectos
+
+En mis repositorios intento mantener una estructura clara:
+
+- objetivo de la práctica o proyecto;
+- entorno utilizado;
+- instalación y configuración;
+- scripts o comandos principales;
+- comprobaciones realizadas;
+- problemas encontrados;
+- soluciones aplicadas;
+- documentación final.
 
 Mi objetivo es seguir construyendo un perfil técnico sólido, con proyectos prácticos que demuestren conocimientos reales y capacidad para documentar, mantener y explicar lo que hago.
 
----
-
-## Cómo trabajo los proyectos
-
-En mis repositorios intento seguir una estructura clara:
-
-* Objetivo de la práctica o proyecto
-* Entorno utilizado
-* Instalación y configuración
-* Scripts o comandos principales
-* Explicación de cada parte
-* Comprobaciones realizadas
-* Problemas encontrados
-* Soluciones aplicadas
-* Documentación final
-
----
-
 ## Contacto
 
-* LinkedIn: [linkedin.com/in/dhayan-osorio](https://www.linkedin.com/in/dhayan-osorio/)
-* GitHub: [github.com/dhayanandresosorio](https://github.com/dhayanandresosorio)
+- LinkedIn: [linkedin.com/in/dhayan-osorio](https://www.linkedin.com/in/dhayan-osorio/)
+- GitHub: [github.com/dhayanandresosorio](https://github.com/dhayanandresosorio)
