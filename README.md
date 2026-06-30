@@ -1,8 +1,8 @@
 # Dhayan Osorio
 
-Técnico Junior de Sistemas IT, graduado en ASIR, con interés en administración de sistemas, soporte técnico, redes, bases de datos, automatización y ciberseguridad defensiva.
+Técnico Junior de Sistemas IT, graduado en ASIR, con interés en administración de sistemas, soporte técnico, redes, bases de datos, automatización, alta disponibilidad y ciberseguridad defensiva.
 
-Me gusta trabajar con entornos prácticos y documentados: máquinas virtuales, servidores Linux, servicios web, bases de datos, redes, logs, pruebas de conectividad y resolución de problemas paso a paso.
+Me gusta trabajar con entornos prácticos y documentados: máquinas virtuales, servidores Linux, servicios web, bases de datos, redes, logs, pruebas de conectividad, resolución de problemas y documentación paso a paso.
 
 ## Perfil técnico
 
@@ -14,7 +14,7 @@ Estoy orientando mi perfil hacia roles como:
 - Junior Sysadmin
 - Técnico de infraestructura
 - Técnico junior de bases de datos
-- Ciberseguridad junior
+- Ciberseguridad junior / SOC junior inicial
 
 ## Áreas que trabajo
 
@@ -48,6 +48,9 @@ Estoy orientando mi perfil hacia roles como:
 - Roles y permisos
 - Vistas
 - Triggers
+- Migración de datos
+- Replicación
+- Alta disponibilidad
 - Configuración de acceso remoto
 - Tareas básicas de administración
 
@@ -58,8 +61,14 @@ Estoy orientando mi perfil hacia roles como:
 - WordPress
 - Bash scripting
 - Git y GitHub
-- Docker básico
+- Docker
+- Docker Compose
 - VirtualBox / Hyper-V
+- Patroni
+- HAProxy
+- etcd
+- pgloader
+- SymmetricDS
 - Suricata
 - IDS/IPS
 - Grafana / Loki
@@ -74,6 +83,26 @@ Proyecto real de creación, migración y documentación de una web WordPress par
 Incluye trabajo con hosting, dominio, HTTPS, SMTP, formularios, streaming online, estructura de páginas y documentación de mantenimiento.
 
 Repositorio: [radio-la-mina-wordpress-migration](https://github.com/dhayanandresosorio/radio-la-mina-wordpress-migration)
+
+---
+
+### PostgreSQL High Availability - Patroni and HAProxy
+
+Laboratorio de alta disponibilidad en PostgreSQL usando Docker, Patroni, etcd y HAProxy.
+
+Incluye configuración de clúster, leader/replica, punto único de acceso mediante HAProxy, comprobación con `patronictl`, prueba de failover y recuperación de nodo.
+
+Repositorio: [postgresql-high-availability-patroni-haproxy](https://github.com/dhayanandresosorio/postgresql-high-availability-patroni-haproxy)
+
+---
+
+### MySQL PostgreSQL Replication - pgloader and SymmetricDS
+
+Proyecto de migración y replicación entre sistemas heterogéneos.
+
+Incluye migración de MySQL a PostgreSQL con `pgloader`, configuración de acceso remoto, usuarios, errores reales de autenticación y replicación continua con SymmetricDS.
+
+Repositorio: [mysql-postgresql-replication-pgloader-symmetricds](https://github.com/dhayanandresosorio/mysql-postgresql-replication-pgloader-symmetricds)
 
 ---
 
@@ -101,34 +130,13 @@ Práctica de configuración cliente-servidor con PostgreSQL, restauración de ba
 
 Repositorio: [postgresql-cliente-servidor-ubuntu](https://github.com/dhayanandresosorio/postgresql-cliente-servidor-ubuntu)
 
----
-
-### Distribución y fragmentación de datos
-
-Práctica centrada en distribución de datos, fragmentación horizontal y trabajo con bases de datos distribuidas.
-
-Repositorio: [database-distribution-fragmentation](https://github.com/dhayanandresosorio/database-distribution-fragmentation)
-
----
-
-### MySQL cliente-servidor
-
-Práctica de instalación y configuración de MySQL en un entorno cliente-servidor, incluyendo conexión remota, usuarios y permisos.
-
-Repositorio: [mysql-cliente-servidor-ubuntu](https://github.com/dhayanandresosorio/mysql-cliente-servidor-ubuntu)
-
----
-
-### PHP MySQL LaLiga CRUD
-
-Aplicación CRUD básica con PHP y MySQL para practicar conexión a base de datos, sesiones, consultas preparadas y gestión de datos desde una interfaz web.
-
-Repositorio: [php-mysql-laliga-crud](https://github.com/dhayanandresosorio/php-mysql-laliga-crud)
-
 ## Otros proyectos
 
-También mantengo prácticas más pequeñas sobre fundamentos de PHP, Apache, PostgreSQL y administración básica en Ubuntu:
+También mantengo prácticas sobre fundamentos de sistemas, bases de datos, servicios web y desarrollo básico:
 
+- [database-distribution-fragmentation](https://github.com/dhayanandresosorio/database-distribution-fragmentation)
+- [mysql-cliente-servidor-ubuntu](https://github.com/dhayanandresosorio/mysql-cliente-servidor-ubuntu)
+- [php-mysql-laliga-crud](https://github.com/dhayanandresosorio/php-mysql-laliga-crud)
 - [php-sessions-football-crud](https://github.com/dhayanandresosorio/php-sessions-football-crud)
 - [apache-php-basics-ubuntu](https://github.com/dhayanandresosorio/apache-php-basics-ubuntu)
 - [postgresql-installation-configuration](https://github.com/dhayanandresosorio/postgresql-installation-configuration)
