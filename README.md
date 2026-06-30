@@ -1,8 +1,8 @@
 # Dhayan Osorio
 
-Técnico Junior de Sistemas IT, graduado en ASIR, con interés en administración de sistemas, soporte técnico, redes, bases de datos, automatización, alta disponibilidad y ciberseguridad defensiva.
+Técnico Junior de Sistemas IT, graduado en ASIR, con interés en administración de sistemas, soporte técnico, redes, bases de datos, monitorización, automatización, alta disponibilidad y ciberseguridad defensiva.
 
-Me gusta trabajar con entornos prácticos y documentados: máquinas virtuales, servidores Linux, servicios web, bases de datos, redes, logs, pruebas de conectividad, resolución de problemas y documentación paso a paso.
+Me gusta trabajar con entornos prácticos y documentados: máquinas virtuales, servidores Linux, servicios web, bases de datos, redes, logs, monitorización, pruebas de conectividad, resolución de problemas y documentación paso a paso.
 
 ## Perfil técnico
 
@@ -14,6 +14,7 @@ Estoy orientando mi perfil hacia roles como:
 - Junior Sysadmin
 - Técnico de infraestructura
 - Técnico junior de bases de datos
+- Técnico de monitorización junior
 - Ciberseguridad junior / SOC junior inicial
 
 ## Áreas que trabajo
@@ -54,8 +55,11 @@ Estoy orientando mi perfil hacia roles como:
 - Configuración de acceso remoto
 - Tareas básicas de administración
 
-### Web, automatización y seguridad
+### Monitorización, web, automatización y seguridad
 
+- Nagios
+- check_pgsql
+- check_postgres
 - Apache
 - PHP básico
 - WordPress
@@ -132,8 +136,9 @@ Repositorio: [postgresql-cliente-servidor-ubuntu](https://github.com/dhayanandre
 
 ## Otros proyectos
 
-También mantengo prácticas sobre fundamentos de sistemas, bases de datos, servicios web y desarrollo básico:
+También mantengo prácticas sobre fundamentos de sistemas, bases de datos, servicios web, monitorización y desarrollo básico:
 
+- [nagios-postgresql-monitoring-lab](https://github.com/dhayanandresosorio/nagios-postgresql-monitoring-lab)
 - [database-distribution-fragmentation](https://github.com/dhayanandresosorio/database-distribution-fragmentation)
 - [mysql-cliente-servidor-ubuntu](https://github.com/dhayanandresosorio/mysql-cliente-servidor-ubuntu)
 - [php-mysql-laliga-crud](https://github.com/dhayanandresosorio/php-mysql-laliga-crud)
@@ -160,4 +165,3 @@ Mi objetivo es seguir construyendo un perfil técnico sólido, con proyectos pr�
 
 - LinkedIn: [linkedin.com/in/dhayan-osorio](https://www.linkedin.com/in/dhayan-osorio/)
 - GitHub: [github.com/dhayanandresosorio](https://github.com/dhayanandresosorio)
-- Email: dhayanandresosorio@gmail.com
