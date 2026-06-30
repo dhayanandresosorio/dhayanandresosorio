@@ -160,3 +160,4 @@ Mi objetivo es seguir construyendo un perfil técnico sólido, con proyectos pr�
 
 - LinkedIn: [linkedin.com/in/dhayan-osorio](https://www.linkedin.com/in/dhayan-osorio/)
 - GitHub: [github.com/dhayanandresosorio](https://github.com/dhayanandresosorio)
+- Email: dhayanandresosorio@gmail.com
